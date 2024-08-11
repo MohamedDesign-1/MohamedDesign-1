@@ -9,11 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/imohameddesign" target="blank"><img src="https://img.shields.io/twitter/follow/imohameddesign?logo=twitter&style=for-the-badge" alt="imohameddesign" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Diploma**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **mohameddesign527@gmail.com**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    - 🌱 I’m currently learning **Flutter Diploma** <br>
+    - 💬 Ask me about **Flutter** <br>
+    - 📫 How to reach me **mohameddesign527@gmail.com**
+  </div>
+  <div>
+    <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding-gif" width="200" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
